@@ -15,7 +15,7 @@ Meu lado profissional está muito ligado ao meu lado pessoal, já que tudo que s
 
 <br>
 
-## 📝 Profissional.
+## 📝 Profissional
 
 Sou um desenvolvedor que gosta de constantes desafios. Estou sempre à procura de novos conhecimentos e coisas relacionadas à minha área de atuação que me despertam interesse. Gosto de explorar novas ferramentas e linguagens de programação.
 Aqui você encontrará alguns dos meus projetos relacionados a cursos que fiz e outros que ainda estão em fase de conclusão.</p>
@@ -23,10 +23,10 @@ Aqui você encontrará alguns dos meus projetos relacionados a cursos que fiz e 
 <p>Não se engane ao ver meus projetos e cursos diversos e supor que não sei o que quero seguir! Pelo contrário, tenho isso muito bem definido. Essa diversidade de conteúdo e projetos está relacionada com minha área de atuação. São projetos baseados em cursos que compõem o profissional que sou, já que o mercado tecnológico não para de evoluir. Procuro conhecer de tudo um pouco para ter embasamento de discussão e utilização quando necessário. Claro que tenho meu foco de estudo e especialização (Java, C# e Cloud), mas não abro mão de conhecer e acrescentar aos meus conhecimentos o que surge a cada dia.</p>
 
 <p>Graduado em Análise e Desenvolvimento de Sistemas, formação técnica pelo Centro Paula Souza em Técnico de Informática, entre diversos cursos e especializações relacionados às duas formações. Desempenhei funções de: Instrutor de Informática; Técnico de Informática; Analista de Suporte de Sistemas; Analista de Redes, com o cargo atual de Desenvolvimento de Software.
-Analisei, Elaborei e Provi Soluções para cenários diversos. Sempre ligado a Desenvolvimento de Sistemas e Tecnologias de mercado em geral. A vivência nas empresas em que trabalhei, hoje, possibilita que identifique, compreenda e atenda às necessidades de negócio em que venha atuar. Busco constantemente conhecimentos e especialização nas tecnologias de mercado.</p>
+Analisei, elaborei e provi soluções para cenários diversos. Sempre ligado ao Desenvolvimento de Sistemas e às Tecnologias de mercado em geral. A vivência nas empresas em que trabalhei, hoje, possibilita que identifique, compreenda e atenda às necessidades de negócio em que venha atuar. Busco constantemente conhecimentos e especialização nas tecnologias de mercado.</p>
 
 <p>Em meados de 2021, iniciei a busca por conhecimento e especialização em Cloud, o que possibilitará migrar e somar meus conhecimentos em Infraestrutura e Desenvolvimento para o patamar atual do mercado em Cloud.
-Atuante no segmento de T.I. de modo geral, adquiri conhecimento e experiência em Infraestrutura, Arquitetura de Sistemas, Suporte de Sistemas e Desenvolvimento de Sistemas, trabalhando com tecnologias diversas.
+Atuante no segmento de T.I., de modo geral, adquiri conhecimento e experiência em Infraestrutura, Arquitetura de Sistemas, Suporte de Sistemas e Desenvolvimento de Sistemas, trabalhando com tecnologias diversas.
 Sigo minha jornada profissional, tendo em mente que a Tecnologia é uma Metamorfose constante!
 O que aprendemos não se perde! Evolui...</p>
 
@@ -41,7 +41,7 @@ O que aprendemos não se perde! Evolui...</p>
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge\&logo=csharp\&logoColor=white) <br>
-🤖 Inteligência Artificial.
+🤖 Inteligência Artificial
 
 <br>
 
@@ -60,21 +60,21 @@ O que aprendemos não se perde! Evolui...</p>
 ![Delphi](https://img.shields.io/badge/Delphi-B22222?style=for-the-badge\&logo=delphi\&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=Hibernate\&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge\&logo=openai\&logoColor=white)
-![JUnit](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge\&logo=junit5\&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring-boot\&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge\&logo=junit5\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring-boot\&logoColor=white)
 
 <br>
 
 ## ⚡ SGBD — Sistemas de Gerenciamento de Banco de Dados.
 
-![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge\&logo=microsoft%20sql%20server\&logoColor=white)
 
 <br>
 
 ## DevOps.
 
-![TerraForm](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge\&logo=terraform\&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge\&logo=terraform\&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge\&logo=ansible\&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=Grafana\&logoColor=white)
 ![Puppet](https://img.shields.io/badge/Puppet-FFAE1A?style=for-the-badge\&logo=Puppet\&logoColor=white)
